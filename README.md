@@ -20,8 +20,6 @@ This is a Gantry mounted poop device for filament changing/purging
 - 15mm x15mm x 1mm Copper Pad/heatsink  (alu is fine if you can't get copper)- https://www.aliexpress.com/item/1005004455030521.html
 - A1 mini wipers - https://www.aliexpress.com/item/1005007625680159.html (they are deeper, normal A1 coming later)
 
-
-
  ## Print settings:
 
 All parts will print on 0.4 or 0.6 mm nozzle.
@@ -30,4 +28,10 @@ Stiff material is required - ASA CF is good - PPS CF is better.
 
 Your printer needs to be tuned. If you havn't already I recommend using: https://vector3d.shop/products/califlower-calibration-tool-mk2
 
+## Parts to print from AT_Brush
 
+This mod utilized the sweet design by AT. You will want to print all of the model apart from a "brush mount" and "[a]_front_arm_slide.stl" as ABP ones will replace them.
+
+## Triming the gear rack
+Ensuring you trim the rack is critical so the parts line up correctly
+![alt text](https://github.com/ImSundee/abp/blob/main/images/gear-rack.jpg "gear-rack")
