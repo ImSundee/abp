@@ -1,12 +1,11 @@
 ![alt text](https://github.com/ImSundee/abp/blob/main/images/logo.jpg "ABP")
 
 # abp - beta
- A better poop
-
  Poop done better? Hopefully.
 
-Yes this is beta its at your own risk
+__Yes this is beta its at your own risk__
 
+ 
 
 This is a Gantry mounted poop device for filament changing/purging
 
