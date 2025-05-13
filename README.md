@@ -1,4 +1,4 @@
-![alt text](https://github.com/ImSundee/abp/images/logo.jpg "ABP")
+![alt text](https://github.com/ImSundee/abp/blob/main/images/logo.jpg "ABP")
 
 # abp - beta
  A better poop
