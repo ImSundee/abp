@@ -47,3 +47,9 @@ variable_purge_x = this is the furthest you want it to move to activate the acti
 
 I'd recommend homing the printer, leveling ect, then edging to the spots and record the movement. ensure this aligns with the highest Y number your printer can move to as the code will use your y max.
 
+After you will have new macros available to use.
+
+POOPER = poop and brush - returns to last location after
+POOPER_PARK = parks the nozzle in the ABP
+POOPER_CLEAN = cleans the nozzle
+
