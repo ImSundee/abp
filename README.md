@@ -28,11 +28,11 @@ Stiff material is required - ASA CF is good - PPS CF is better.
 
 Your printer needs to be tuned. If you havn't already I recommend using: https://vector3d.shop/products/califlower-calibration-tool-mk2
 
-### Parts to print from AT_Brush
+### Parts to print from AT_Brush:
 
 This mod utilized the sweet design by AT. You will want to print all of the model apart from a "brush mount" and "[a]_front_arm_slide.stl" as ABP ones will replace them.
 
-## 
+## Building the mod
 
 ### Triming the gear rack
 Ensuring you trim the rack is critical so the parts line up correctly
@@ -46,3 +46,12 @@ __WIP__
 8mm m2 self tapping used else where
 Superglue copper to the base
 put activator into lid  (from the top) before fitting rack with M2.5 bolt
+
+
+# Software install
+
+To come
+
+# Software configuration
+
+To come
